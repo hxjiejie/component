@@ -1,5 +1,5 @@
 {
-  "name": "hxjiejie/component",
+  "name": "component",
   "description": "Framework's component",
   "license": "MIT",
   "authors": [
@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "hxjiejie\\": "src/"
+      "component\\": "src/"
     }
   }
 }
