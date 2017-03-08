@@ -1,6 +1,6 @@
 <?php
 
-namespace component\route;
+namespace Component\Route;
 
 class RouteException extends \Exception {
 
